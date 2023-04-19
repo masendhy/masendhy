@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm sendhy</h1>
 <h3 align="center">A passionate Data Scientist from Indonesia</h3>
 
-- 🔭 I’m currently working as ** Data Scientist**
+- 🔭 I’m currently working as **Data Scientist**
 
 - 🌱 I’m currently learning Data Science **programming with Python and SQL**
 
@@ -16,7 +16,10 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masendhy&theme=ayu_mirage)
 
-<br><br>
+</br>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masendhy&theme=apprentice)
+</br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masendhy&show_icons=true&locale=en&layout=compact" alt="masendhy" /></p>
 
