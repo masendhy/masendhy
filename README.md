@@ -21,6 +21,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masendhy&theme=apprentice)
 </br>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masendhy&theme=apprentice)
+
+</br>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masendhy&show_icons=true&locale=en&layout=compact" alt="masendhy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masendhy&show_icons=true&locale=en" alt="masendhy" /></p>
