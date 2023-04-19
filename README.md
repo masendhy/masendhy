@@ -32,5 +32,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masendhy&show_icons=true&locale=en&layout=compact" alt="masendhy" /></p>
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masendhy&theme=default)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masendhy&show_icons=true&locale=en" alt="masendhy" /></p>
 
