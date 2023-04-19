@@ -1,10 +1,10 @@
 
 <h1 align="left">Hi 👋, I'm sendhy</h1>
-<h3 align="center">A passionate Data Scientist from Indonesia</h3>
+<h3 align="left">A passionate Data Scientist from Indonesia</h3>
 
 - 🔭 I’m currently working as **Data Scientist**
 
-- 🌱 I’m currently learning Data Science **programming with Python and SQL**
+- 🌱 I’m learning Data Science **programming with Python and SQL**
 
 - 👯 I’m looking to collaborate on **open source project, specially to Data Science,Python Programing, SQL**
 
