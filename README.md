@@ -12,6 +12,17 @@
 
 - 📫 How to reach me **masendhy@gmail.com**
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masendhy&theme=ayu_mirage)
+
+<br><br>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masendhy&show_icons=true&locale=en&layout=compact" alt="masendhy" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masendhy&show_icons=true&locale=en" alt="masendhy" /></p>
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/massendhy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="massendhy" height="30" width="40" /></a>
@@ -29,11 +40,5 @@
 
 <br><br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masendhy&theme=default)
 
-<br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=masendhy&show_icons=true&locale=en&layout=compact" alt="masendhy" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=masendhy&show_icons=true&locale=en" alt="masendhy" /></p>
 
