@@ -19,8 +19,6 @@
 </br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masendhy&theme=apprentice)
-
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masendhy&theme=apprentice)
 
 </br>
