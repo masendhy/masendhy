@@ -18,14 +18,17 @@
 
 </br>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masendhy&theme=apprentice)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masendhy&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masendhy&theme=calm)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masendhy&theme=calm)
+
 
 </br>
 
 </br>
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masendhy&theme=calm)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=masendhy&theme=apprentice)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=masendhy&theme=calm&utcOffset=8)
 
 </br>
 
