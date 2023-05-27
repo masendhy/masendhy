@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on medium [https://medium.com/@masendhy](https://medium.com/@masendhy)
 
-- 📫 How to reach me **masendhy@gmail.com**
+- 📫 How to reach me **massendhy@gmail.com**
 
 </br>
 
